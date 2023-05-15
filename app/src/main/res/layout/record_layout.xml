@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/txtSID"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSName"
+        android:layout_width="75dp"
+        android:layout_height="match_parent"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSProgram"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSCourse1"
+        android:layout_width="45dp"
+        android:layout_height="match_parent"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSCourse2"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSCourse3"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSCourse4"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txtSTotalMarks"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" />
+
+</LinearLayout>

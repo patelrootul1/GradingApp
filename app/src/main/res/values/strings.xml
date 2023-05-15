@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RootulAssignment2</string>
+    <string name="welcome_proffesor">Welcome Professor!</string>
+
+    <!--strings for opening and closing operations of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="enter_grades">Enter Grades</string>
+    <string name="list_students">List Students</string>
+    <string name="search_grades">Search Grades</string>
+    <string name="enter_improvement">Enter Improvement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_grades1">Enter Grades</string>
+    <string name="student_name">Student Name</string>
+    <string name="enter_student_s_name">Enter Student\'s Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="enter_student_s_id">Enter Student\'s ID</string>
+    <string name="student_s_program">Student\'s Program</string>
+    <string name="course1_marks">Course1 Marks</string>
+    <string name="course2_marks">Course2 Marks</string>
+    <string name="course3_marks">Course3 Marks</string>
+    <string name="course4_marks">Course4 Marks</string>
+    <string name="program">Program</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="select_course_for_improvement">Select Course For Improvement</string>
+    <string name="improvement_marks">Improvement Marks</string>
+    <string name="enter_improvement_marks">Enter Improvement Marks</string>
+    <string name="submit_marks">Submit Marks</string>
+    <string name="search_student_s_grade">Search Student\'s Grade</string>
+    <string name="button">Button</string>
+    <string name="search_student">Search Student</string>
+    <string name="list_of_students">List Of Students</string>
+</resources>
